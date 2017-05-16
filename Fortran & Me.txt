@@ -1,0 +1,7 @@
+Fortran was a total throw-back to my x86 Assembly language course (which I quite enjoyed).
+I'm seriously considering some of the "golden handcuff" jobs that you were talking about. Sure,
+I'm probably a bit naive and it's probably archaic and boring, but at this moment in time I feel like
+the Greybeards up on High Hrothgar, upholding the traditions of old. I know at the very least I'm more
+interested in embedded systems/solutions (at least from what I know of them from a quick Indeed search).
+Looks like 8/16/32 bit microcontroller programming as well as C is what it takes to be one. Would you
+happen to know if any of these older languages are useful in that field?
